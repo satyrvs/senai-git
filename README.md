@@ -3,6 +3,7 @@ senai-versoes-colaboracoes
 
 readme de exemplo
 
+lembrei do comando: git status
 #Esqueleto de um arquivo README.md
 
 ##Título e Descrição
