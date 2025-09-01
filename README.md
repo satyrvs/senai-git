@@ -3,6 +3,9 @@ senai-versoes-colaboracoes
 
 readme de exemplo
 
+lembrei do comando: git commit
+
+
 #Esqueleto de um arquivo README.md
 
 ##Título e Descrição
