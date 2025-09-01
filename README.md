@@ -2,3 +2,14 @@
 senai-versoes-colaboracoes
 
 readme de exemplo
+
+#Esqueleto de um arquivo README.md
+
+##Título e Descrição
+##Features
+##Tecnologias utilizadas
+##Organização do projeto
+##Pré-requisitos de instalação
+##Execução da aplicação
+##Erros comuns
+##Contribuidores
