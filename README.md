@@ -1,9 +1,15 @@
-# senai-git
+ senai-git
 senai-versoes-colaboracoes
 
 readme de exemplo
 
+
 lembrei do comando: git status
+
+lembrei do comando: git commit
+
+
+
 #Esqueleto de um arquivo README.md
 
 ##Título e Descrição
